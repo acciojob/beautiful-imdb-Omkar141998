@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+img{
+    height: 70vh;
+    width: 60vw;
+    opacity: 5px;
+}
+p{
+    position: inherit;
+    top: 72vh;
+    width: 600px;
+    text-align: start;
+    font-size: 18px;
+}
