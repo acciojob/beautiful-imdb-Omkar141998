@@ -6,9 +6,9 @@ img{
     opacity: 5px;
 }
 p{
-    position: inherit;
+    position: absolute;
     top: 72vh;
-    width: 600px;
+    width: 60vw;
     text-align: start;
     font-size: 18px;
 }
